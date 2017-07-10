@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Corporal.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyHandler.cpp">
+      <Filter>Handlers</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyShip.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Handlers</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageLibrary.cpp">
+      <Filter>Library%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="Lieutenant.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerHandler.cpp">
+      <Filter>Handlers</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerShip.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Private.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Sergeant.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Ship.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundLibrary.cpp">
+      <Filter>Library%27s</Filter>
+    </ClCompile>
+    <ClCompile Include="Starfield.cpp">
+      <Filter>Handlers</Filter>
+    </ClCompile>
+    <ClCompile Include="Star.cpp">
+      <Filter>GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="surface.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="threads.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bullet.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Corporal.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyHandler.h">
+      <Filter>Handlers</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyShip.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Handlers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageLibrary.h">
+      <Filter>Library%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Lieutenant.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerHandler.h">
+      <Filter>Handlers</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerShip.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Private.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Sergeant.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Ship.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundLibrary.h">
+      <Filter>Library%27s</Filter>
+    </ClInclude>
+    <ClInclude Include="Starfield.h">
+      <Filter>Handlers</Filter>
+    </ClInclude>
+    <ClInclude Include="Star.h">
+      <Filter>GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="surface.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="threads.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="template.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="_readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GameObjects">
+      <UniqueIdentifier>{a23d399f-4c81-48a6-9970-42be6550bfa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Handlers">
+      <UniqueIdentifier>{ba60e577-fc8e-4a30-b23d-9bcaffa7686d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{d55303f5-ebec-49ff-ae32-297df84a55a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Library%27s">
+      <UniqueIdentifier>{65c87877-0d7f-4743-924d-a29487431f85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other">
+      <UniqueIdentifier>{b4c1e21f-ef0f-46e3-b7b8-8550cac06760}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
